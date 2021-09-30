@@ -3,7 +3,7 @@
 - I Worked With The Django Rest FrameWork  And Intrested In Web Development
 - 🌱 I’m currently learning Asp.Net Core MVC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, Please If You Leave Me The Email To (raminazali8@gmail.com)
+- 📫 How to reach me, Leave Me The Email To (raminazali8@gmail.com)
 
 <!---
 raminazali/raminazali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
