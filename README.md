@@ -1,6 +1,6 @@
-- 👋 Hi, I’m raminazali
-- 👀 I’m interested in C# And Dotnet Core 3 or 5 
-- I Worked With The Django Rest FrameWork  And Intrested In Web Development
+- 👋 Hi, I’m ramin azali
+- 👀 I have more than 3 years of experience in Back-End development in .net core
+-  always trying to update my self with new technology like .net core 8 and starting to .net core 9 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Leave Me The Email To (raminazali8@gmail.com)
 
